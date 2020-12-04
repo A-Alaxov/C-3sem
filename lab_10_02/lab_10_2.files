@@ -1,0 +1,13 @@
+inc/errors.h
+inc/list_tools.h
+inc/task.h
+inc/tools.h
+src/list_tools.c
+src/main.c
+src/task.c
+src/tools.c
+unit_tests/check_compact.c
+unit_tests/check_concatenation.c
+unit_tests/check_main.c
+unit_tests/check_remove_duplicates.c
+unit_tests/check_search.c
